@@ -12,8 +12,15 @@ and produce a portfolio project for verification internship application.
 ## Progress Log
 
 ### Week 1-2: Verilog & Digital Design Refresh
-- [ ] Day 1 (May 4): Environment setup + first Verilog module (2-to-1 MUX)
-- [ ] ...
+
+- [x] **Day 1 (May 4, 2026): Environment setup + first Verilog module ✅**
+  - Set up EDA Playground & GitHub repo
+  - Wrote first design.sv (2-to-1 MUX) and testbench.sv
+  - All 4 test cases passed
+  - Project: [day1_mux2to1](./week1/day1_mux2to1/)
+- [ ] Day 2: TBD
+- [ ] 
+
 
 ## Tools
 - EDA Playground (online simulator)
